@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# ProListing.AI : A landing page made after an adobe design using Nuxt 3, Tailwind CSS and Flowbite-vue
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
